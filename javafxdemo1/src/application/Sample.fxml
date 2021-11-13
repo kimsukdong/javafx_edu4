@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Arc?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="68.0" layoutX="174.0" layoutY="267.0" stroke="BLACK" strokeType="INSIDE" width="253.0" />
+      <Line endX="11.0" endY="97.0" layoutX="219.0" layoutY="170.0" startX="11.0" startY="25.0" />
+      <Line endX="11.0" endY="97.0" layoutX="333.0" layoutY="170.0" startX="11.0" startY="25.0" />
+      <Line endX="100.0" layoutX="291.0" layoutY="195.0" startX="-100.0" />
+      <Line endX="-34.0" endY="-127.0" layoutX="275.0" layoutY="176.0" startX="-84.5" startY="19.5" />
+      <Line endX="-134.0" endY="-126.0" layoutX="477.0" layoutY="175.0" startX="-84.5" startY="19.5" />
+      <Line endX="-43.29290771484375" endY="-137.70709228515625" layoutX="285.0" layoutY="186.0" startX="57.0" startY="-137.70709228515625" />
+      <Arc fill="#1f93ff00" layoutX="353.0" layoutY="78.0" length="180.0" radiusX="20.0" radiusY="20.0" startAngle="110.0" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+      <Arc fill="#1f93ff00" layoutX="292.0" layoutY="196.0" length="180.0" radiusX="20.0" radiusY="20.0" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+      <Arc fill="#1f93ff00" layoutX="213.0" layoutY="130.0" length="180.0" radiusX="20.0" radiusY="20.0" startAngle="250.0" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+      <Circle fill="#2a2b2b00" layoutX="261.0" layoutY="87.0" radius="20.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="#2a2b2b00" layoutX="320.0" layoutY="142.0" radius="20.0" stroke="BLACK" strokeType="INSIDE" />
+   </children>
+</AnchorPane>
